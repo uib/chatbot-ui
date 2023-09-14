@@ -108,7 +108,7 @@ If you do not provide an OpenAI API key with `OPENAI_API_KEY`, users will have t
 
 If you don't have an OpenAI API key, you can get one [here](https://platform.openai.com/account/api-keys).
 
-## Contact
+## Contact.
 
 If you have any questions, feel free to reach out to Mckay on [Twitter](https://twitter.com/mckaywrigley).
 
