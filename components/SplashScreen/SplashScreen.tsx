@@ -29,8 +29,14 @@ const SplashScreen = () => {
         <div className="text-lg pb-4 font-bold text-black dark:text-neutral-200">
           ChatUiT
         </div>
-        <div className="text-sm mb-2 text-black dark:text-neutral-200">
-          Her er informasjon om ChatUiT...
+        <div className="text-sm mb-2 text-neutral-700 dark:text-neutral-200">
+        ChatUiT is based on GPT-3.5-turbo, which is the same model used in the free version of ChatGPT.
+        In our version of the service, no data is stored outside your machine.
+        Chat logs are stored in your browser and will only be available on your device.
+        Data is not shared or used for training the model.
+        <br></br>
+        <br></br>
+        ChatUiT is only approved for green data!
         </div>
         <br></br>
         <label className="w-full cursor-pointer bg-transparent p-2 text-neutral-700 dark:text-neutral-200">
