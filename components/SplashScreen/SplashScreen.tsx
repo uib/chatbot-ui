@@ -14,9 +14,10 @@ const SplashScreen = () => {
     setShowPopup(false);
   };
 
-  const handleCheckboxChange = (e) => {
+  const handleCheckboxChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     localStorage.setItem('shouldShowPopup', String(!e.target.checked));
   };
+  
 
   if (!showPopup) {
     return null;
