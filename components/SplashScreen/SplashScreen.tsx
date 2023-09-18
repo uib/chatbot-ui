@@ -34,8 +34,8 @@ const SplashScreen = () => {
         </div>
         <br></br>
         <label className="w-full cursor-pointer bg-transparent p-2 text-neutral-700 dark:text-neutral-200">
-          <input type="checkbox" onChange={handleCheckboxChange} />
-          <a> </a>Do not show this again
+          <input type="checkbox" className="mr-2" onChange={handleCheckboxChange} />
+          {"Do not show this again"}
         </label>
         <button
           type="button"
