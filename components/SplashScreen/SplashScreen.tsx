@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { IconExternalLink } from '@tabler/icons-react';
 
 const SplashScreen = () => {
   const [showPopup, setShowPopup] = useState(false);
@@ -41,7 +42,9 @@ const SplashScreen = () => {
           href="https://uit.topdesk.net/tas/public/ssp/content/detail/service?unid=5a3379b4e20e4a72bd4903f58e214ca1&from=8acda9fd-7dd9-4914-8cc2-d2cf5f5a5a26"
           target="_blank"
           className="flex items-center"
-        >Read more here</a>
+        >
+          <IconExternalLink size={18} className={'inline mr-1'} />
+          Read more here</a>
         </div>
         <br></br>
         <label className="w-full cursor-pointer bg-transparent p-2 text-neutral-700 dark:text-neutral-200">
