@@ -33,10 +33,15 @@ const SplashScreen = () => {
         ChatUiT is based on GPT-3.5-turbo, which is the same model used in the free version of ChatGPT.
         In our version of the service, no data is stored outside your machine.
         Chat logs are stored in your browser and will only be available on your device.
-        Data is not shared or used for training the model.
-        <br></br>
-        <br></br>
+        Data is not shared or used for training the model. 
         ChatUiT is only approved for green data!
+        <br></br>
+        <br></br>
+        <a
+          href="https://uit.topdesk.net/tas/public/ssp/content/detail/service?unid=5a3379b4e20e4a72bd4903f58e214ca1&from=8acda9fd-7dd9-4914-8cc2-d2cf5f5a5a26"
+          target="_blank"
+          className="flex items-center"
+        >Read more here</a>
         </div>
         <br></br>
         <label className="w-full cursor-pointer bg-transparent p-2 text-neutral-700 dark:text-neutral-200">
