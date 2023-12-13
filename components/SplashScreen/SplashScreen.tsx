@@ -28,14 +28,14 @@ const SplashScreen = () => {
     <div className="fixed inset-0 flex items-center justify-center z-50 bg-black bg-opacity-50">
       <div className="bg-white rounded-lg p-4 max-w-lg w-full mx-auto dark:bg-[#202123]">
         <div className="text-lg pb-4 font-bold text-black dark:text-neutral-200">
-          ChatUiT
+          UiBchat
         </div>
         <div className="text-sm mb-2 text-neutral-700 dark:text-neutral-200">
-        ChatUiT is based on GPT-3.5-turbo, which is the same model used in the free version of ChatGPT.
+        UiBchat is based on GPT-3.5-turbo, which is the same model used in the free version of ChatGPT.
         In our version of the service, no data is stored outside your machine.
         Chat logs are stored in your browser and will only be available on your device.
         Data is not shared or used for training the model. 
-        ChatUiT is only approved for green data!
+        UiBchat is only approved for green data!
         <br></br>
         <br></br>
         <a
