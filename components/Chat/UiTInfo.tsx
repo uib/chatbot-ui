@@ -38,7 +38,7 @@ export const UiTInfo = () => {
       </span>
       <div className="w-full mt-3 text-left text-neutral-700 dark:text-neutral-400 flex items-center">
         <a
-          href="https://uit.topdesk.net/tas/public/ssp/content/detail/service?unid=5a3379b4e20e4a72bd4903f58e214ca1&from=8acda9fd-7dd9-4914-8cc2-d2cf5f5a5a26"
+          href="https://uib.topdesk.net/solutions/open-knowledge-items/item/KI%202256/en/"
           target="_blank"
           className="flex items-center"
         >
