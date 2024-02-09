@@ -31,11 +31,10 @@ const SplashScreen = () => {
           UiBchat
         </div>
         <div className="text-sm mb-2 text-neutral-700 dark:text-neutral-200">
-        UiBchat is based on GPT-3.5-turbo, which is the same model used in the free version of ChatGPT.
+        UiBchat is service that resembles ChatGPT made available for students and employees at UiB.
         In our version of the service, no data is stored outside your machine.
         Chat logs are stored in your browser and will only be available on your device.
-        Data is not shared or used for training the model. 
-        UiBchat is only approved for green data!
+        UiBchat is approved for yellow and green data.
         <br></br>
         <br></br>
         <a
